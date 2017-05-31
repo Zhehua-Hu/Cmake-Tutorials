@@ -1,0 +1,10 @@
+/usr/local/lib/libhelloA.so.1.0.0
+/usr/local/lib/libhelloA.so
+/usr/local/lib/libhelloB.so.1.0.0
+/usr/local/lib/libhelloB.so
+/usr/local/include/hello/helloA.h
+/usr/local/include/hello/helloB.h
+/usr/local/include/hello/autorun.sh
+/usr/local/include/hello/main
+/usr/local/include/hello//doc/doc1
+/usr/local/include/hello//doc/doc2

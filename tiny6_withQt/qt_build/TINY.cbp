@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="TINY" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\src\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/beaver/codes/cmake_test/tiny7/qt_build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/beaver/codes/cmake_test/tiny7/qt_build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="hello">
+         <Option output="/home/beaver/codes/cmake_test/tiny7/bin/hello" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/beaver/codes/cmake_test/tiny7/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/beaver/codes/cmake_test/tiny7/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 hello" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="hello/fast">
+         <Option output="/home/beaver/codes/cmake_test/tiny7/bin/hello" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/beaver/codes/cmake_test/tiny7/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/beaver/codes/cmake_test/tiny7/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 hello/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="powertest">
+         <Option output="/home/beaver/codes/cmake_test/tiny7/bin/powertest" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/beaver/codes/cmake_test/tiny7/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/beaver/codes/cmake_test/tiny7/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 powertest" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="powertest/fast">
+         <Option output="/home/beaver/codes/cmake_test/tiny7/bin/powertest" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/beaver/codes/cmake_test/tiny7/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/beaver/codes/cmake_test/tiny7/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 powertest/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/beaver/codes/cmake_test/tiny7/qt_build/src/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/beaver/codes/cmake_test/tiny7/src/hellofunc/helloA.cpp">
+      </Unit>
+      <Unit filename="/home/beaver/codes/cmake_test/tiny7/src/hellofunc/helloB.cpp">
+      </Unit>
+      <Unit filename="/home/beaver/codes/cmake_test/tiny7/src/main.cpp">
+      </Unit>
+      <Unit filename="/home/beaver/codes/cmake_test/tiny7/src/math/power.cpp">
+      </Unit>
+      <Unit filename="/home/beaver/codes/cmake_test/tiny7/src/powertest.cpp">
+      </Unit>
+      <Unit filename="/home/beaver/codes/cmake_test/tiny7/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/beaver/codes/cmake_test/tiny7/config.h.in">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/beaver/codes/cmake_test/tiny7/src/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

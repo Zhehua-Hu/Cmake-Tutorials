@@ -1,0 +1,5 @@
+/home/zhehua/codes/cmake_test/MyTiny/tiny7/tmp/install1/license
+/home/zhehua/codes/cmake_test/MyTiny/tiny7/tmp/install1/readme.md
+/home/zhehua/codes/cmake_test/MyTiny/tiny7/tmp/install1/autorun.sh
+/home/zhehua/codes/cmake_test/MyTiny/tiny7/tmp/install1/doc/doc1
+/home/zhehua/codes/cmake_test/MyTiny/tiny7/tmp/install1/doc/doc2

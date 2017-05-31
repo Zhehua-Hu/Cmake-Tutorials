@@ -1,0 +1,1 @@
+/usr/bin/c++   -03   CMakeFiles/main.dir/main.cpp.o  -o ../../bin/main -rdynamic /usr/local/lib/libhelloA.so /usr/local/lib/libhelloB.so -Wl,-rpath,/usr/local/lib 

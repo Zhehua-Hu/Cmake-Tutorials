@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/config.h
+
+../include/helloA.h
+
+../include/helloB.h
+
+../include/main_include.h
+helloA.h
+../include/helloA.h
+helloB.h
+../include/helloB.h
+
+/home/beaver/codes/cmake_test/tiny5/src/hellofunc/helloA.cpp
+helloA.h
+/home/beaver/codes/cmake_test/tiny5/src/hellofunc/helloA.h
+iostream
+-
+
+/home/beaver/codes/cmake_test/tiny5/src/hellofunc/helloB.cpp
+helloB.h
+/home/beaver/codes/cmake_test/tiny5/src/hellofunc/helloB.h
+iostream
+-
+
+/home/beaver/codes/cmake_test/tiny5/src/main.cpp
+iostream
+-
+config.h
+/home/beaver/codes/cmake_test/tiny5/src/config.h
+main_include.h
+/home/beaver/codes/cmake_test/tiny5/src/main_include.h
+

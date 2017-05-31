@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11  -shared -Wl,-soname,libhelloA.so.1.0.0 -o ../../lib/temp_libs/libhelloA.so.1.0.0 CMakeFiles/helloA.dir/hellofunc/helloA.cpp.o 

@@ -1,0 +1,39 @@
+Start testing: Jul 17 20:26 CST
+----------------------------------------------------------
+1/2 Testing: first_test
+1/2 Test: first_test
+Command: "/home/zhehua/codes/cmake_test/test/build/add" "1" "1"
+Directory: /home/zhehua/codes/cmake_test/test/build
+"first_test" start time: Jul 17 20:26 CST
+Output:
+----------------------------------------------------------
+sum=2go
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[sum=2
+]
+"first_test" end time: Jul 17 20:26 CST
+"first_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: second_test
+2/2 Test: second_test
+Command: "/home/zhehua/codes/cmake_test/test/build/add" "1" "2"
+Directory: /home/zhehua/codes/cmake_test/test/build
+"second_test" start time: Jul 17 20:26 CST
+Output:
+----------------------------------------------------------
+sum=3go
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[sum=3
+]
+"second_test" end time: Jul 17 20:26 CST
+"second_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 17 20:26 CST

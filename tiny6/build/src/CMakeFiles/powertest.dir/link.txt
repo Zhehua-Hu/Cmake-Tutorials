@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/powertest.dir/powertest.cpp.o CMakeFiles/powertest.dir/math/power.cpp.o  -o ../../bin/powertest -rdynamic 

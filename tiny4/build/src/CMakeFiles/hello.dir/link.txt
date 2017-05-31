@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/hello.dir/helloB.cpp.o CMakeFiles/hello.dir/main.cpp.o CMakeFiles/hello.dir/helloA.cpp.o  -o ../../bin/hello -rdynamic 

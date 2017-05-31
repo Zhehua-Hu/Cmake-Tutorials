@@ -1,0 +1,4 @@
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_testInstalledLibs/build/lib/CMakeFiles/helloA.dir
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_testInstalledLibs/build/lib/CMakeFiles/helloB.dir
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_testInstalledLibs/build/lib/CMakeFiles/helloA_static.dir
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_testInstalledLibs/build/src/CMakeFiles/main.dir

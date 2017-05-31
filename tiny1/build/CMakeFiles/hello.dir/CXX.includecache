@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beaver/codes/cmake_test/tiny1/main.cpp
+iostream
+-
+main_include.h
+/home/beaver/codes/cmake_test/tiny1/main_include.h
+
+/home/beaver/codes/cmake_test/tiny1/main_include.h
+

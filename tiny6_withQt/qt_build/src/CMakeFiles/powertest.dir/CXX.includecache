@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/power.h
+
+/home/beaver/codes/cmake_test/tiny7/src/math/power.cpp
+
+/home/beaver/codes/cmake_test/tiny7/src/powertest.cpp
+iostream
+-
+stdlib.h
+-
+power.h
+/home/beaver/codes/cmake_test/tiny7/src/power.h
+

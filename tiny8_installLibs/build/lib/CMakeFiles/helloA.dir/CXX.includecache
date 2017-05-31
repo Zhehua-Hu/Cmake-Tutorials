@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_installLibs/lib/hellofunc/helloA.cpp
+helloA.h
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_installLibs/lib/hellofunc/helloA.h
+iostream
+-
+
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_installLibs/lib/hellofunc/helloA.h
+

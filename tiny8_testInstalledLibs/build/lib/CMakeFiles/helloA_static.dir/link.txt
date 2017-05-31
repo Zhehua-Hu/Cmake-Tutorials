@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../lib/temp_libs/libhelloA.a  CMakeFiles/helloA_static.dir/hellofunc/helloA.cpp.o
+/usr/bin/ranlib ../../lib/temp_libs/libhelloA.a

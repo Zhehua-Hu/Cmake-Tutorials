@@ -1,0 +1,2 @@
+/home/beaver/codes/cmake_test/tiny6/build/src/CMakeFiles/hello.dir
+/home/beaver/codes/cmake_test/tiny6/build/src/CMakeFiles/powertest.dir

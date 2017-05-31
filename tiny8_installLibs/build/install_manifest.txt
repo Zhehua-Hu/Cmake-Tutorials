@@ -1,0 +1,7 @@
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_installLibs/lib/libhelloA.so.1.0.0
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_installLibs/lib/libhelloA.so
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_installLibs/lib/libhelloA.a
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_installLibs/lib/libhelloB.so.1.0.0
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_installLibs/lib/libhelloB.so
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_installLibs/include/hello/helloA.h
+/home/zhehua/codes/cmake_test/MyTiny/tiny8_installLibs/include/hello/helloB.h

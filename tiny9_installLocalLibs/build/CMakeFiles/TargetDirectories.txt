@@ -1,0 +1,2 @@
+/home/zhehua/codes/cmake_test/MyTiny/tiny9_installLocalLibs/build/lib/CMakeFiles/helloA.dir
+/home/zhehua/codes/cmake_test/MyTiny/tiny9_installLocalLibs/build/lib/CMakeFiles/helloB.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/main.dir/main.cpp.o  -o ../../bin/main -rdynamic ../../lib/libhelloA.a ../../lib/libhelloB.so -Wl,-rpath,/home/zhehua/codes/cmake_test/MyTiny/tiny8_testInstalledLibs/lib 

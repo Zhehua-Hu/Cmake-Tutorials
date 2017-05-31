@@ -1,0 +1,2 @@
+/home/zhehua/codes/cmake_test/MyTiny/tiny6/build/src/CMakeFiles/powertest.dir
+/home/zhehua/codes/cmake_test/MyTiny/tiny6/build/src/CMakeFiles/hello.dir
