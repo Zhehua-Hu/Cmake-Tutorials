@@ -1,19 +1,5 @@
----
-layout: post
-title: Cmake学习之路
-category: 工具链
-tags:
-    效率工具链
-    学习之路
-keywords:
-description:
----
+# Road of Cmake Learning Cmake学习之路
 
-
-
-**DO NOT SUPPORT FOR WHOLE STYLE**
-
-Only do what cmake could do without hard work
 
 # Installation
 ```
